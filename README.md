@@ -48,24 +48,7 @@ responsive-navigation-bar/
     └── script.js
 ```
 
-## Contributing
 
-If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
-1. **Fork the repository**
-2. **Create your feature branch:**
-   ```bash
-   git checkout -b my-new-feature
-   ```
-3. **Commit your changes:**
-   ```bash
-   git commit -m 'Add some feature'
-   ```
-4. **Push to the branch:**
-   ```bash
-   git push origin my-new-feature
-   ```
-5. **Create a new Pull Request**
 
 ## License
 
