@@ -24,7 +24,7 @@ Make sure you have a modern web browser installed. No additional software is req
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/responsive-navigation-bar.git
+
    ```
 2. **Navigate to the project directory:**
    ```bash
@@ -32,7 +32,7 @@ Make sure you have a modern web browser installed. No additional software is req
    ```
 3. **Open `struct.html` in your browser:**
    ```bash
-   open index.html
+   open struct.html
    ```
 
 ## Usage
