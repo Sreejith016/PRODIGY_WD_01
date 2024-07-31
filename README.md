@@ -20,20 +20,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 Make sure you have a modern web browser installed. No additional software is required.
 
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd responsive-navigation-bar
-   ```
-3. **Open `struct.html` in your browser:**
-   ```bash
-   open struct.html
-   ```
 
 ## Usage
 
